@@ -1,0 +1,15 @@
+{
+    "name": "riyaz/api",
+    "autoload": {
+        "psr-4": {
+            "API\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Riyas",
+            "email": "riyazpt@gmail.com"
+        }
+    ],
+    "require": {}
+}
